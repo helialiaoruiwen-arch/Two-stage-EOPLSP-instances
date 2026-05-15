@@ -10,7 +10,7 @@ The instances are structured into directories representing different problem dim
 ```text
 .
 ├── README.md
-└── result_output/
+└── Entries/
     ├── d3p3_100scen/        # 3 days, 3 items, 100 Scenarios
     │   ├── entree_1.csv     # Individual problem instances
     │   ├── entree_2.csv
